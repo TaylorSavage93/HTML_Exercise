@@ -15,7 +15,12 @@ Steps are to be completed under the div with `id="exercise1"`
 
 1. Create a **heading 1** element that contains your name between opening and closing tags
 2. Create a **paragraph** element that contains a bio about yourself
-
+<div>id ="exercise1"</div>  
+  <h1> Taylor Savage </h1>
+  <p>Hi I am Taylor Savage, I am 24 years old and female. I graduated Kent State with a bachelors degree in marketing and entrpreneurship. 
+    I am currently building my resume by adding tech experience through truecoders. After truecoders bootcamp I am hoping to get a job in the web development area. 
+  I also own my own business, I run a rental property in Saint Augustine, and have been doing so for the apst 6 months. I also hope to acquire more rental properties in the future as it is a fun and efficient way to earn money.
+I think with the added tech skills I will not only be able to get a better job, but also imrprove my overall entrepreneurial skills.</p>
 ## Exercise 2
 
 Steps are to be completed under the div with `id="exercise2"`
